@@ -27,7 +27,7 @@ def test_delete():
     del h['six']
     del h['seven']
     del h['eight']
-    assert h.CHAIN_ELEMENTS == 1 # 8 - buckets has now shrunk due to utilization
+    assert h.CHAIN_ELEMENTS == 1 
 
 def test_insert_after_del():
     '''test insertion of keys after deletion'''
