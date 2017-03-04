@@ -1,0 +1,6 @@
+{
+  "test_hashtable.py::test_delete": true, 
+  "test_hashtable.py::test_find": true, 
+  "test_hashtable.py::test_init": true, 
+  "test_hashtable.py::test_insert_after_del": true
+}
